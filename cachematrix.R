@@ -1,5 +1,7 @@
+## Lexical Scoping _ Assignment 2
+## Ashok Natesan
+
 ## Cache the inverse of a matrix.   For the purposes of this assignment,  we assume that any matrix being passed in is invertable
-## 
 
 ## makeCacheMatrix returns a list of functions (methods) on a cached matrix structure that avoids repeated matrix inverse operations
 ## List returns get, set, getinv(erse) and setinv(erse) methods for callers to use
